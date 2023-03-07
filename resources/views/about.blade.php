@@ -1,1 +1,7 @@
-<h1>About</h1>
+@extends('layouts.web')
+
+@section('title', 'About')
+
+@section('content')
+    <h1>About</h1>
+@endsection
